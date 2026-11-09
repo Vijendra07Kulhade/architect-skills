@@ -1,0 +1,4 @@
+fork_context:
+  previous_session_summary: "<summarized history of prior conversation turns>"
+  target_goal: "<specific sub-task for the new tmux session>"
+  injected_instructions: "<custom instructions or constraints>"
